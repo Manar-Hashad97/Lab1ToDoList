@@ -13,12 +13,5 @@ Each lab includes an Expo Snack link and a short description.
 |----|------|------------|
 | Lab 01 | To-Do List App | 🔗 https://snack.expo.dev/@manar_hashad/lab1todolist
 
-# mobile-app--React-Native---Copy
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
-# Lab1ToDoList
+
+
