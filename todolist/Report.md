@@ -1,5 +1,5 @@
 
-# App 01 – To-Do List App
+# App 01 â€“ To-Do List App
 
 ## Description
 
@@ -34,15 +34,15 @@ https://snack.expo.dev/@manar_hashad/lab1todolist
 
 The application uses a dark UI color system inspired by productivity and task management apps:
 
-Main Background: Dark Navy – #0F172A
-Card Background: Dark Slate – #1E293B
-Primary Accent: Neon Blue – #38BDF8
-Update Action: Emerald Green – #10B981
-Delete Action: Red – #EF4444
-Borders: Muted Blue-Gray – #334155
-Primary Text: Off White – #F8FAFC
-Secondary Text: Soft Gray – #CBD5E1
-Placeholder Text: Light Gray – #94A3B8
+Main Background: Dark Navy â€“ #0F172A
+Card Background: Dark Slate â€“ #1E293B
+Primary Accent: Neon Blue â€“ #38BDF8
+Update Action: Emerald Green â€“ #10B981
+Delete Action: Red â€“ #EF4444
+Borders: Muted Blue-Gray â€“ #334155
+Primary Text: Off White â€“ #F8FAFC
+Secondary Text: Soft Gray â€“ #CBD5E1
+Placeholder Text: Light Gray â€“ #94A3B8
 
 The dark theme improves focus, reduces eye strain, and gives the application a modern professional feel.
 
@@ -80,7 +80,7 @@ todolist/
 ##Course Information
 
 Course: Mobile Application Development
-University: Helwan University – Faculty of Engineering (FEHU)
+University: Helwan University â€“ Faculty of Engineering (FEHU)
 Student: Manar Ahmed Ahmed Hashad
 
 ---
